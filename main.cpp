@@ -24,7 +24,7 @@
 // SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 //
 // Email   : hipersayan DOT x AT gmail DOT com
-// Web-Site: https://github.com/hipersayanX/Carnival-LiveCam
+// Web-Site: https://github.com/hipersayanX/FlexBisonQt
 
 #include <QtCore>
 
